@@ -1,0 +1,301 @@
+1,2,"Hspice","Circuit Simulation",
+2,2,"SimpleScalar","Architectural Simulation",
+3,2,"Analytical Model","Analytical Model","Mainly circuit models"
+4,9,"Simulation","Other","Solution could not be found analytically"
+5,11,"Analytical Model","Analytical Model","Assumes ideal parallelism. Requires less floating point bits"
+7,22,"GPSS","Architectural Simulation","Discrete event simulation via a General Purpose Simulation System"
+8,23,"Analytical Model","Analytical Model","Estimation based on measured numbers"
+9,31,"Queuing Theory","Analytical Model",
+10,36,"Analytical Model","Analytical Model","Based on assembly instruction counts"
+11,40,"Analytical Model","Analytical Model","Contention and communication overhead, area"
+13,43,"Circuit Simulation","Circuit Simulation",
+14,44,"SIMULA 67","Architectural Simulation","Discrete event simulation"
+15,45,"Analytical Model","Analytical Model","Probabilistic"
+16,57,"RSIM","Architectural Simulation","Rice Simulator for ILP Multiprocessors
+
+CRPC Line"
+17,59,"Network Simulator","Architectural Simulation","Latency and throughput"
+18,59,"Analytical Model","Analytical Model","Price estimates based on network components"
+20,61,"In-House Simulator","Architectural Simulation",
+21,62,"In-House Simulator","Architectural Simulation",
+23,64,"Neural Network Simulator","Architectural Simulation",
+24,64,"Catapult HLS","Prototyping","For a processing element implemented in SystemC"
+25,64,"Synopsys Design Compiler","Prototyping","To generate area estimates"
+26,64,"TimeLoop","Analytical Model","For energy estimates"
+27,66,"Hardware Prototype","Prototyping",
+28,69,"Analytical Model","Analytical Model","Processing time. Complexity as a function of the number of pixels."
+29,71,"Hardware Prototype","Prototyping","The cache design has been designed, prototyped, and verified."
+30,75,"Analytical Model","Analytical Model","Estimates based on CRAY-1 numbers"
+31,77,"Hardware Prototype","Prototyping",
+32,80,"PMEP","Emulation","Persistent Memory Emulation Platform"
+33,81,"In-House Simulator","Architectural Simulation",
+34,82,"In-House Simulator","Architectural Simulation",
+35,83,"In-House Simulator","Architectural Simulation",
+36,83,"Micron System Power Calculator","Analytical Model","Power and energy"
+37,83,"Analytical Model","Analytical Model","Memory lifetime"
+39,84,"In-House Simulator","Architectural Simulation",
+40,86,"Analytical Model","Analytical Model",
+41,86,"Network Simulator","Architectural Simulation",
+42,88,"In-House Simulator","Architectural Simulation",
+43,89,"Analytical Model","Analytical Model",
+44,92,"CRAY-1S","Architectural Simulation",
+45,94,"In-House Simulator","Architectural Simulation",
+46,98,"Analytical Model","Analytical Model",
+47,98,"In-House Simulator","Architectural Simulation",
+48,98,"ATUM","Trace Generation","Four VAX8200 traces"
+49,99,"Monte Carlo Simulation","Other",
+50,99,"Hardware Prototype","Prototyping","Two networked procesors, one with faults injected into"
+51,101,"In-House Simulator","Architectural Simulation",
+52,102,"CRAY-1S","Architectural Simulation",
+53,103,"In-House Simulator","Architectural Simulation",
+54,105,"In-House Simulator","Architectural Simulation",
+55,105,"Analytical Model","Analytical Model",
+56,106,"GPGPU-Sim","Architectural Simulation",
+57,107,"Network Simulator","Architectural Simulation",
+58,107,"gem5","Architectural Simulation",
+59,107,"Pin","Instrumentation",
+60,107,"CACTI","Analytical Model",
+61,107,"RTL Synthesis","Prototyping",
+62,108,"Pin","Trace Generation",
+63,108,"In-House Simulator","Architectural Simulation",
+64,109,"gem5","Architectural Simulation",
+65,108,"CACTI","Analytical Model",
+66,111,"MarssX86","Architectural Simulation",
+67,112,"Hardware Prototype","Prototyping",
+68,113,"Synopsys Design Compiler","Prototyping",
+69,113,"In-House Simulator","Architectural Simulation",
+70,114,"CACTI","Analytical Model",
+71,114,"GPGPU-Sim","Architectural Simulation",
+72,114,"Booksim","Architectural Simulation",
+73,114,"GPUWattch","Analytical Model",
+75,116,"In-House Profiler","Profiling",
+76,117,"ESESC","Architectural Simulation",
+77,117,"CACTI","Analytical Model",
+79,119,"In-House Simulator","Architectural Simulation",
+80,119,"McPAT","Analytical Model",
+81,119,"CACTI","Analytical Model",
+83,122,"Pin","Architectural Simulation",
+84,122,"Analytical Model","Analytical Model",
+85,126,"Analytical Model","Analytical Model",
+86,126,"In-House Simulator","Architectural Simulation",
+87,127,"In-House Simulator","Architectural Simulation",
+88,128,"In-House Simulator","Architectural Simulation",
+89,129,"In-House Simulator","Architectural Simulation",
+90,131,"In-House Simulator","Architectural Simulation",
+91,132,"Logic Simulator","Other",
+92,133,"Hardware Prototype","Prototyping",
+93,134,"In-House Simulator","Architectural Simulation",
+94,134,"pixie","Trace Generation",
+95,135,"In-House Simulator","Architectural Simulation",
+96,137,"Network Simulator","Architectural Simulation",
+97,138,"Hardware Prototype","Prototyping",
+98,139,"In-House Simulator","Architectural Simulation",
+99,140,"In-House Simulator","Architectural Simulation",
+100,143,"Network Simulator","Architectural Simulation",
+101,144,"In-House Simulator","Architectural Simulation",
+102,146,"In-House Simulator","Architectural Simulation",
+103,146,"Analytical Model","Analytical Model",
+104,147,"pixie","Trace Generation",
+105,147,"In-House Simulator","Architectural Simulation",
+106,148,"In-House Profiler","Profiling",
+107,148,"Analytical Model","Analytical Model",
+108,149,"Network Simulator","Architectural Simulation",
+109,153,"In-House Profiler","Profiling",
+110,154,"In-House Simulator","Architectural Simulation",
+111,155,"Analytical Model","Analytical Model",
+112,155,"In-House Simulator","Architectural Simulation",
+113,155,"ATUM","Trace Generation",
+114,156,"Proteus","Architectural Simulation",
+115,157,"ATOM","Architectural Simulation",
+116,158,"Shade","Trace Generation",
+117,158,"In-House Simulator","Architectural Simulation",
+118,161,"In-House Simulator","Architectural Simulation",
+119,162,"In-House Simulator","Architectural Simulation","Measured system behaviour"
+120,162,"ATOM","Architectural Simulation","To simulate TLB behaviour"
+121,163,"In-House Simulator","Architectural Simulation",
+122,164,"Network Simulator","Architectural Simulation",
+123,167,"In-House Simulator","Architectural Simulation",
+124,168,"SimOS + MXS + Mipsy","Architectural Simulation",
+127,169,"In-House Simulator","Architectural Simulation",
+128,170,"Epoch silicon compiler","Prototyping",
+129,171,"Hardware Prototype","Prototyping",
+130,172,"In-House Simulator","Architectural Simulation",
+131,173,"Wisconsin Wind Tunnel","Architectural Simulation",
+132,174,"Hardware Prototype","Prototyping",
+133,175,"Hardware Prototype","Prototyping",
+134,176,"SimpleScalar","Architectural Simulation",
+135,177,"SimpleScalar","Architectural Simulation",
+136,177,"FPGA Prototype","Prototyping",
+137,177,"Analytical Model","Analytical Model","Performance model for active pages"
+138,178,"betaSMT","Architectural Simulation",
+139,179,"Hardware Prototype","Prototyping",
+140,180,"In-House Simulator","Architectural Simulation",
+141,181,"SimpleScalar","Architectural Simulation",
+142,182,"Hardware Prototype","Prototyping",
+143,183,"CAD","Prototyping",
+144,184,"SimpleScalar","Architectural Simulation",
+145,184,"In-House Profiler","Profiling",
+146,184,"Hardware Prototype","Prototyping",
+147,184,"Analytical Model","Analytical Model",
+148,185,"In-House Simulator","Architectural Simulation",
+149,186,"SimpleScalar","Architectural Simulation",
+150,187,"ATOM","Trace Generation",
+151,187,"In-House Simulator","Architectural Simulation",
+152,188,"SimpleScalar","Architectural Simulation",
+153,188,"Architectural Power Evaluation","Analytical Model",
+154,189,"SimpleScalar","Architectural Simulation",
+155,189,"Wattch","Analytical Model",
+156,190,"Asim","Architectural Simulation",
+157,191,"ATOM","Trace Generation",
+158,191,"In-House Simulator","Architectural Simulation",
+159,192,"Analytical Model","Analytical Model","Signature accuracy"
+160,192,"SimpleScalar","Architectural Simulation",
+161,193,"SimpleScalar","Architectural Simulation",
+162,193,"HSPICE","Circuit Simulation",
+163,193,"CACTI","Analytical Model",
+164,193,"Berkley Predictive Model","Analytical Model",
+165,194,"Asim","Architectural Simulation",
+166,195,"Simics + GEMS","Architectural Simulation",
+167,196,"In-House Simulator","Architectural Simulation",
+168,197,"In-House Simulator","Architectural Simulation","Trace-driven"
+169,197,"In-House Simulator","Architectural Simulation","Execution-driven"
+170,198,"FPGA Prototype","Prototyping",
+171,199,"SimpleScalar","Architectural Simulation",
+172,200,"SESC","Architectural Simulation",
+173,200,"VARIUS","Analytical Model","Within-Die Variation"
+174,200,"Wattch","Analytical Model","Dynamic Power"
+175,200,"HotLeakage","Analytical Model","Leakage Power"
+176,200,"HotSpot","Analytical Model","On-Chip Temperatures"
+177,200,"CACTI","Analytical Model","Path layouts and wire delays"
+178,200,"Analytical Model","Analytical Model","Citation 30"
+179,200,"Alpha-Power Law","Analytical Model","Gate delays"
+180,201,"COTSon","Trace Generation",
+181,201,"Network Simulator","Architectural Simulation",
+182,202,"COTSon","Architectural Simulation",
+183,202,"In-House Simulator","Architectural Simulation","Trace-driven to evaluate memory sharing"
+184,202,"Analytical Model","Analytical Model","Cost in $"
+185,202,"Power Calculators","Analytical Model","Available from multiple vendors"
+186,204,"Simics","Architectural Simulation",
+187,204,"Pin","Profiling",
+188,205,"SimpleScalar","Architectural Simulation",
+189,205,"Wattch","Analytical Model",
+190,206,"RapiTime","Profiling",
+191,206,"CarCore","Architectural Simulation",
+192,207,"Booksim","Architectural Simulation",
+193,207,"Analytical Model","Analytical Model","Energy"
+194,208,"COTSon","Trace Generation","1-2 weeks to generate traces"
+195,208,"In-House Simulator","Architectural Simulation",
+196,209,"In-House Simulator","Architectural Simulation",
+197,209,"Hardware Prototype","Prototyping",
+198,210,"GPGPU-Sim","Architectural Simulation",
+199,210,"CACTI","Analytical Model","access energy and leakage power"
+200,210,"Analytical Model","Analytical Model","Wire energy"
+201,210,"FreePDK","Prototyping","Area"
+202,211,"Hardware Prototype","Prototyping","Built into google's production servers"
+203,212,"Flexus","Architectural Simulation",
+204,213,"CACTI","Analytical Model","Energy consumption"
+205,213,"GEMS + GARNET","Architectural Simulation",
+206,214,"In-House Simulator","Architectural Simulation",
+207,214,"CACTI","Analytical Model",
+208,214,"McPAT","Analytical Model",
+209,214,"Synopsys Design Compiler","Prototyping",
+211,216,"Cadence","Other","Area and Layout"
+212,216,"SimpleScalar","Architectural Simulation",
+213,216,"Analytical Model","Analytical Model","Energy reduction from adding way shutdown"
+214,217,"SimpleScalar","Architectural Simulation",
+215,218,"TEST","Profiling",
+217,218,"In-House Simulator","Architectural Simulation",
+218,219,"Hardware Prototype","Prototyping",
+219,219,"In-House Simulator","Architectural Simulation",
+220,220,"Simics + TFSim","Architectural Simulation",
+221,221,"In-House Simulator","Trace Generation",
+222,221,"In-House Simulator","Architectural Simulation",
+223,222,"Hardware Prototype","Prototyping",
+224,222,"Hierarchical Architectural Simulation Environment","Architectural Simulation",
+225,223,"Synopsys Design Compiler","Prototyping",
+226,223,"SPICE","Circuit Simulation",
+227,223,"Berkley Predictive Technology Models","Analytical Model",
+228,223,"Analytical Model","Analytical Model","Power"
+229,223,"SimpleScalar","Architectural Simulation",
+230,226,"Pin","Trace Generation",
+231,226,"CMP$im","Architectural Simulation",
+232,227,"LLVM","Instrumentation",
+233,227,"Analytical Model","Analytical Model","Execution time"
+234,227,"Google Performance Tools CPU Profiler","Profiling",
+235,227,"VARIUS","Analytical Model","process variation"
+237,228,"MV5","Architectural Simulation",
+238,229,"Tensilica's Xtensa Modeling Platform","Prototyping",
+240,230,"CACTI","Analytical Model",
+241,230,"Synopsys Design Compiler","Prototyping",
+242,230,"Bochs","Architectural Simulation",
+243,231,"Pin","Architectural Simulation",
+244,232,"Simics + GEMS + GARNET","Architectural Simulation",
+245,232,"McPAT","Analytical Model",
+246,233,"Orion","Analytical Model",
+247,233,"CACTI","Analytical Model",
+248,233,"Analytical Model","Analytical Model",
+249,233,"Synthesis","Prototyping",
+250,233,"Network Simulator","Architectural Simulation",
+251,233,"M5","Trace Generation",
+252,234,"In-House Profiler","Profiling",
+253,235,"In-House Simulator","Architectural Simulation",
+254,235,"Synopsys Design Compiler","Prototyping",
+255,236,"In-House Simulator","Architectural Simulation",
+256,236,"CACTI","Analytical Model","Area"
+257,237,"PTLSim","Architectural Simulation",
+258,237,"Vulcan","Instrumentation","Binary rewriting to add instructions for security"
+259,238,"DRAMSim2","Architectural Simulation",
+260,238,"Pin","Architectural Simulation",
+261,239,"Simics + FeS2","Architectural Simulation",
+262,239,"LLVM","Instrumentation",
+263,240,"FPGA Prototype","Prototyping",
+264,241,"Simics","Architectural Simulation",
+265,241,"CACTI","Analytical Model",
+266,242,"Network Simulator","Architectural Simulation",
+267,242,"Analytical Model","Analytical Model","Area"
+268,243,"CACTI","Analytical Model",
+269,243,"Hardware Prototype","Prototyping",
+270,244,"Simics + Ruby","Architectural Simulation",
+271,245,"Turandot","Architectural Simulation",
+272,245,"PowerTimer","Analytical Model","Power"
+273,245,"HotSpot","Analytical Model","Thermal"
+274,246,"Simics + Network Simulator","Architectural Simulation",
+275,246,"CACTI","Analytical Model",
+276,246,"HS3d","Analytical Model","Thermal"
+277,247,"Hardware Prototype","Prototyping",
+278,247,"In-House Simulator","System Simulation",
+279,248,"FPGA Prototype","Prototyping",
+280,249,"Network Simulator","Architectural Simulation",
+281,249,"Analytical Model","Analytical Model","Wire length"
+282,250,"CMP$im","Architectural Simulation",
+283,251,"Barra","Architectural Simulation",
+284,252,"Synopsys Design Compiler","Prototyping",
+285,252,"SimpleScalar","Architectural Simulation",
+286,252,"Wattch","Analytical Model",
+287,253,"GPGPU-Sim","Architectural Simulation",
+288,253,"Synopsys Design Compiler + IC Compiler + PrimeTime PX","Prototyping",
+289,253,"CACTI","Analytical Model",
+290,254,"In-House Simulator","Architectural Simulation",
+291,256,"Pin","Trace Generation","Instruction traces"
+292,256,"In-House Simulator","Architectural Simulation",
+293,256,"Orion","Analytical Model","Dynamic and static power"
+294,256,"SPICE","Circuit Simulation","Router wake-up delay and energy overhead"
+295,257,"Hardware Prototype","Prototyping",
+296,258,"GPGPU-Sim","Architectural Simulation",
+297,258,"Analytical Model","Analytical Model","Cache pollution due to prefetching"
+298,259,"FPGA Prototype","Prototyping",
+299,260,"gem5","Architectural Simulation",
+300,261,"FPGA Prototype","Prototyping",
+301,262,"XIOSim","Architectural Simulation",
+302,262,"DRAMSim2","Architectural Simulation",
+303,262,"LLVM","Other",
+304,263,"Hardware Prototype","Prototyping",
+305,263,"Simics + GEMS + GARNET","Architectural Simulation",
+306,263,"Graphite","Trace Generation",
+307,264,"Hardware Prototype","Prototyping",
+308,265,"In-House Simulator","Architectural Simulation",
+309,266,"Hardware Prototype","Prototyping",
+310,269,"Analytical Model","Analytical Model",
+311,273,"Skeleton","Architectural Simulation",
+312,275,"In-House Simulator","Architectural Simulation",
+313,276,"MINT","Architectural Simulation",
