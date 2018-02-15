@@ -1,0 +1,6 @@
+= Survey on Computer Architecture Evaluation Methodologies
+
+This repository is a reference for the database used in the Second Workshop on Pioneering Processing Paradigms.
+The database was created using Microsoft Access.
+We are currently exploring online database solutions for easier visualization and access to other researchers.
+
